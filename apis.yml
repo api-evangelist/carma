@@ -1,8 +1,25 @@
 aid: carma
 name: Carma
-description: 'Carma is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Carma is an Australian online used-car retailer that lets consumers buy, sell,
+  and trade in pre-owned vehicles entirely online. Every car is inspected and reconditioned,
+  and the platform bundles financing through partner lenders, home delivery, trade-in
+  valuations, a 7-day money-back guarantee, a 3-month warranty, and NRMA roadside assistance
+  as an alternative to the traditional dealership experience. Backed by General Catalyst
+  since 2022, Carma is headquartered in Sydney, Australia. This API Evangelist profile was
+  surfaced as a General Catalyst portfolio company and enriched from Carma''s public web
+  surface; Carma publishes no public developer API at this time.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://carma.com.au/icon.png
 url: https://raw.githubusercontent.com/api-evangelist/carma/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +29,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Consumer
+- Automotive
+- Used Cars
+- Marketplace
+- E-Commerce
+- Car Finance
+- Australia
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: VulnerabilityDisclosure
+  url: security/carma-vulnerability-disclosure.yml
+- type: Security
+  url: https://carma.com.au/.well-known/security.txt
+- type: DomainSecurity
+  url: security/carma-domain-security.yml
+- type: Website
+  url: https://carma.com.au/
+- type: Support
+  url: https://carma.com.au/contact-us
+- type: HelpCenter
+  url: https://help.carma.com.au
+- type: TermsOfService
+  url: https://carma.com.au/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://carma.com.au/privacy-policy
+- type: About
+  url: https://carma.com.au/our-story
+- type: SecurityTxt
+  url: well-known/carma-security.txt
+- type: WellKnown
+  url: well-known/carma-well-known.yml
+- type: LLMsTxt
+  url: llms/carma-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,25 @@
+# Carma
+
+> Carma is an Australian online used-car retailer for buying, selling, and trading in inspected, reconditioned pre-owned vehicles online, with bundled financing, home delivery, a 7-day money-back guarantee, a 3-month warranty, and NRMA roadside assistance. Backed by General Catalyst; headquartered in Sydney, Australia. Carma publishes no public developer API at this time.
+
+## Company
+
+- [Website](https://carma.com.au/): Carma home — browse inventory, sell or trade in, and car finance.
+- [Our story](https://carma.com.au/our-story): About Carma and the company mission.
+- [How Carma works](https://carma.com.au/how-carma-works): End-to-end buy/sell/trade-in process.
+- [Carma quality](https://carma.com.au/carma-quality): Inspection and reconditioning standards.
+- [Investors](https://carma.com.au/investors): Investor information.
+
+## Support
+
+- [Contact us](https://carma.com.au/contact-us): Phone, email (hello@carma.com.au), and WhatsApp.
+- [Help centre / FAQs](https://help.carma.com.au): Customer help and frequently asked questions.
+
+## Legal
+
+- [Terms and conditions](https://carma.com.au/terms-and-conditions)
+- [Privacy policy](https://carma.com.au/privacy-policy)
+
+## Security
+
+- [security.txt](https://carma.com.au/.well-known/security.txt): Vulnerability reporting contact (technology@carma.com.au) and reward program.
