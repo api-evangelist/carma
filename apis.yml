@@ -8,6 +8,17 @@ description: 'Carma is an Australian online used-car retailer that lets consumer
   since 2022, Carma is headquartered in Sydney, Australia. This API Evangelist profile was
   surfaced as a General Catalyst portfolio company and enriched from Carma''s public web
   surface; Carma publishes no public developer API at this time.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
