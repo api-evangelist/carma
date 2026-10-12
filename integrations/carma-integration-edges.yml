@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/carma/integrations
+- https://n8n.io/integrations/carma/
+- https://composio.dev/toolkits/carma
+- https://monid.ai/tools/carma
+checked:
+- https://composio.dev/toolkits/carma
+- https://monid.ai/tools/carma
+- https://n8n.io/integrations/carma/
+- https://zapier.com/apps/carma/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
